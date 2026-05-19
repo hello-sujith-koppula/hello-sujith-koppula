@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**hello-sujith-koppula/hello-sujith-koppula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Details:
+- Name: Sujit Koppula
+- School/College: <>
+- Current Skills: [HTML, Python beginner, Roblox Studio, etc.]
+- Interests: [AI, web development, game development, cybersecurity, etc.]
+- Hobbies: [gaming, coding, drawing, etc.]
+- Goals: [becoming a software engineer, building apps, learning AI, etc.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Requirements:
+- Make it clean, modern, and beginner-friendly
+- Use markdown formatting
+- Add emojis professionally
+- Include sections like About Me, Skills, Learning Journey, Goals, Projects, and Contact
+- Make it future-proof so I can update it later easily
+- Keep it attractive for recruiters and developers
+- Add motivational but realistic wording
+- Suggest optional GitHub badges and stats
+- Make it look like a real developer profile
