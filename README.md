@@ -2,11 +2,11 @@
 
 Details:
 - Name: Sujit Koppula
-- School/College: <>
-- Current Skills: [HTML, Python beginner, Roblox Studio, etc.]
-- Interests: [AI, web development, game development, cybersecurity, etc.]
-- Hobbies: [gaming, coding, drawing, etc.]
-- Goals: [becoming a software engineer, building apps, learning AI, etc.]
+- School/College: <Narayana, Velimala, Hyerabad>
+- Current Skills: [HTML, Python beginner, Roblox Studio]
+- Interests: [AI, web development, game development, cybersecurity, Cyberdetection]
+- Hobbies: [gaming, coding, drawing, ]
+- Goals: [building  gaming apps, learning AI, becoming an Entreprenuer]
 
 Requirements:
 - Make it clean, modern, and beginner-friendly
